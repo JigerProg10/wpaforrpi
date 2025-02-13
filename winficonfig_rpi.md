@@ -16,7 +16,7 @@ For example, you can use Notepad on Windows or TextEdit on macOS.
 - Inside the `wpa_supplicant.conf` file, add your Wi-Fi network credentials:
 
 ```plaintext
-country=US  # Set your country code, e.g., US for the United States, GB for Great Britain, etc.
+country=IN  # Set your country code, e.g., US for the United States, GB for Great Britain, etc.
 
 ctrl_interface=DIR=/var/run/wpa_supplicant GROUP=netdev
 update_config=1
